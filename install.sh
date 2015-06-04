@@ -24,4 +24,7 @@ yum install supervisor
 #puppet
 yum install puppet
 
-#yum install flex bison
+#flex bison
+yum install flex bison
+
+#yum install vim-X11
