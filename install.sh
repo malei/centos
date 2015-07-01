@@ -28,3 +28,6 @@ yum install puppet
 yum install flex bison
 
 #yum install vim-X11
+
+#dot
+yum install graphviz
